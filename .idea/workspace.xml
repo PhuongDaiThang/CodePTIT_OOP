@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6887878-50de-4573-905f-3e2e9b7b1acf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CodePTIT_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/2_Mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J02017/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/J03011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Mang/out/production/2_Mang/2_Mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/.idea/3_XauKiTu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03004_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03009/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03025/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/J03039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_XauKiTu/out/production/3_XauKiTu/.idea/3_XauKiTu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/.idea/4_KHAIBAOLOPVAĐOITUONG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04005/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04005/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04017/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04017/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04020/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04020/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04021/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04021/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04022/WordSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J04022/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J05003/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J05003/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J05007/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J05007/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J07009/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/J07009/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/out/production/4_KHAIBAOLOPVAĐOITUONG/.idea/4_KHAIBAOLOPVAĐOITUONG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/test_online/thisinh/ThiSinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_KHAIBAOLOPVAĐOITUONG/test_online/thisinh/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/5_MangDoiTuong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05009/J05009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05009/out/production/J05009/J05009/J05009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05010/J05010.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05010/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05010/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05010/out/production/J05010/J05010/J05010.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05011/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05011/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05011/calcTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05018/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05018/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05020/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05021/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05021/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05022/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05022/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05033/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MangDoiTuong/J05033/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/.idea/8_VaoRaFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07001/DATA.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07001/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07004/DATA.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07004/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07005/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07007/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07007/VANBAN.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07010/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07010/SV.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07010/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07015/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07017/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07021/DATA.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07021/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07022/DATA.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07022/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07029/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07030/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07031/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07034/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07034/Subjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07037/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07037/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07045/LoaiPhong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07045/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07048/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07048/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_VaoRaFile/J07048/SANPHAM.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAI_TH_So_1/Bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/05_10/Matrix/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/05_10/Matrix/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_LapTrinhJavaCoban/Hello_File/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_LapTrinhJavaCoban/Hello_File/app.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kYB6gfwJuzpB1B35wOkyEo9OTJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.J01013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.app.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/phuon/Desktop/CodePTIT_OOP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="J01013" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J01013" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAI_TH_So_1.Bai1.Main" />
+      <module name="CodePTIT_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BAI_TH_So_1.Bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6887878-50de-4573-905f-3e2e9b7b1acf" name="Changes" comment="" />
+      <created>1723450457367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723450457367</updated>
+      <workItem from="1723450458460" duration="1541000" />
+      <workItem from="1723452079307" duration="17000" />
+      <workItem from="1723520088639" duration="18000" />
+      <workItem from="1723520133294" duration="6000" />
+      <workItem from="1723532241319" duration="104000" />
+      <workItem from="1725068022079" duration="22000" />
+      <workItem from="1725068055794" duration="14000" />
+      <workItem from="1725985553586" duration="29000" />
+      <workItem from="1725985594663" duration="500000" />
+      <workItem from="1726021389240" duration="34000" />
+      <workItem from="1726636058217" duration="1112000" />
+      <workItem from="1728189965663" duration="1655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
